@@ -1,5 +1,5 @@
-## ClickButDont
-# Description
+# ClickButDont
+## Description
 Welcome to the ClickButDont project! This project aims to raise awareness about the potential dangers of clicking on unknown or suspicious links. The internet is a vast and diverse place, filled with both valuable resources and potential threats. It's important to exercise caution and be mindful of the links you click on to protect yourself and your personal information.
 
 Purpose
